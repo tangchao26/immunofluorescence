@@ -1,0 +1,795 @@
+01.02486B4C5F525541C1A2529F9690D6FE360000005000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="45" ZImagePos="0" XMotorPos="12286" YMotorPos="46350" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="12" YImagePos="38" ZImagePos="0" XMotorPos="11650" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="12" YImagePos="41" ZImagePos="0" XMotorPos="11650" YMotorPos="44238" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="12" YImagePos="40" ZImagePos="0" XMotorPos="11650" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="12" YImagePos="39" ZImagePos="0" XMotorPos="11650" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="44" ZImagePos="0" XMotorPos="12286" YMotorPos="45822" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="41" ZImagePos="0" XMotorPos="12286" YMotorPos="44238" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="42" ZImagePos="0" XMotorPos="12286" YMotorPos="44766" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="43" ZImagePos="0" XMotorPos="12286" YMotorPos="45294" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="12" YImagePos="42" ZImagePos="0" XMotorPos="11650" YMotorPos="44766" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="12" YImagePos="43" ZImagePos="0" XMotorPos="11650" YMotorPos="45294" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="40" ZImagePos="0" XMotorPos="12922" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="41" ZImagePos="0" XMotorPos="12922" YMotorPos="44238" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="42" ZImagePos="0" XMotorPos="12922" YMotorPos="44766" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="36" ZImagePos="0" XMotorPos="12286" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="38" ZImagePos="0" XMotorPos="12922" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="37" ZImagePos="0" XMotorPos="12286" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="39" ZImagePos="0" XMotorPos="12922" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="38" ZImagePos="0" XMotorPos="12286" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="40" ZImagePos="0" XMotorPos="12286" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="13" YImagePos="39" ZImagePos="0" XMotorPos="12286" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="43" ZImagePos="0" XMotorPos="12922" YMotorPos="45294" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="44" ZImagePos="0" XMotorPos="12922" YMotorPos="45822" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="45" ZImagePos="0" XMotorPos="12922" YMotorPos="46350" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="46" ZImagePos="0" XMotorPos="12922" YMotorPos="46878" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="36" ZImagePos="0" XMotorPos="12922" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="35" ZImagePos="0" XMotorPos="12922" YMotorPos="41070" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="14" YImagePos="37" ZImagePos="0" XMotorPos="12922" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="42" ZImagePos="0" XMotorPos="13558" YMotorPos="44766" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="41" ZImagePos="0" XMotorPos="13558" YMotorPos="44238" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="40" ZImagePos="0" XMotorPos="13558" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="39" ZImagePos="0" XMotorPos="13558" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="38" ZImagePos="0" XMotorPos="13558" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="36" ZImagePos="0" XMotorPos="13558" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="37" ZImagePos="0" XMotorPos="13558" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="35" ZImagePos="0" XMotorPos="13558" YMotorPos="41070" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="43" ZImagePos="0" XMotorPos="13558" YMotorPos="45294" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="34" ZImagePos="0" XMotorPos="13558" YMotorPos="40542" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="33" ZImagePos="0" XMotorPos="13558" YMotorPos="40014" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="33" ZImagePos="0" XMotorPos="14194" YMotorPos="40014" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="34" ZImagePos="0" XMotorPos="14194" YMotorPos="40542" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="35" ZImagePos="0" XMotorPos="14194" YMotorPos="41070" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="36" ZImagePos="0" XMotorPos="14194" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="45" ZImagePos="0" XMotorPos="13558" YMotorPos="46350" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="44" ZImagePos="0" XMotorPos="13558" YMotorPos="45822" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="15" YImagePos="46" ZImagePos="0" XMotorPos="13558" YMotorPos="46878" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="37" ZImagePos="0" XMotorPos="14194" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="38" ZImagePos="0" XMotorPos="14194" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="40" ZImagePos="0" XMotorPos="14194" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="41" ZImagePos="0" XMotorPos="14194" YMotorPos="44238" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="39" ZImagePos="0" XMotorPos="14194" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="42" ZImagePos="0" XMotorPos="14194" YMotorPos="44766" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="46" ZImagePos="0" XMotorPos="14194" YMotorPos="46878" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="43" ZImagePos="0" XMotorPos="14194" YMotorPos="45294" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="44" ZImagePos="0" XMotorPos="14194" YMotorPos="45822" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="16" YImagePos="45" ZImagePos="0" XMotorPos="14194" YMotorPos="46350" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="46" ZImagePos="0" XMotorPos="14830" YMotorPos="46878" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="45" ZImagePos="0" XMotorPos="14830" YMotorPos="46350" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="44" ZImagePos="0" XMotorPos="14830" YMotorPos="45822" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="43" ZImagePos="0" XMotorPos="14830" YMotorPos="45294" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="42" ZImagePos="0" XMotorPos="14830" YMotorPos="44766" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="41" ZImagePos="0" XMotorPos="14830" YMotorPos="44238" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="37" ZImagePos="0" XMotorPos="14830" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="39" ZImagePos="0" XMotorPos="14830" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="36" ZImagePos="0" XMotorPos="14830" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="40" ZImagePos="0" XMotorPos="14830" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="38" ZImagePos="0" XMotorPos="14830" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="35" ZImagePos="0" XMotorPos="14830" YMotorPos="41070" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="33" ZImagePos="0" XMotorPos="14830" YMotorPos="40014" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="17" YImagePos="34" ZImagePos="0" XMotorPos="14830" YMotorPos="40542" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="32" ZImagePos="0" XMotorPos="15466" YMotorPos="39486" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="33" ZImagePos="0" XMotorPos="15466" YMotorPos="40014" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="34" ZImagePos="0" XMotorPos="15466" YMotorPos="40542" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="35" ZImagePos="0" XMotorPos="15466" YMotorPos="41070" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="36" ZImagePos="0" XMotorPos="15466" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="37" ZImagePos="0" XMotorPos="15466" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="38" ZImagePos="0" XMotorPos="15466" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="39" ZImagePos="0" XMotorPos="15466" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="40" ZImagePos="0" XMotorPos="15466" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="41" ZImagePos="0" XMotorPos="15466" YMotorPos="44238" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="42" ZImagePos="0" XMotorPos="15466" YMotorPos="44766" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="43" ZImagePos="0" XMotorPos="15466" YMotorPos="45294" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="44" ZImagePos="0" XMotorPos="15466" YMotorPos="45822" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="45" ZImagePos="0" XMotorPos="15466" YMotorPos="46350" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="18" YImagePos="46" ZImagePos="0" XMotorPos="15466" YMotorPos="46878" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="45" ZImagePos="0" XMotorPos="16102" YMotorPos="46350" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="46" ZImagePos="0" XMotorPos="16102" YMotorPos="46878" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="44" ZImagePos="0" XMotorPos="16102" YMotorPos="45822" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="43" ZImagePos="0" XMotorPos="16102" YMotorPos="45294" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="41" ZImagePos="0" XMotorPos="16102" YMotorPos="44238" ZMotorPos="1796" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1796" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="42" ZImagePos="0" XMotorPos="16102" YMotorPos="44766" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="40" ZImagePos="0" XMotorPos="16102" YMotorPos="43710" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="39" ZImagePos="0" XMotorPos="16102" YMotorPos="43182" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="37" ZImagePos="0" XMotorPos="16102" YMotorPos="42126" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="36" ZImagePos="0" XMotorPos="16102" YMotorPos="41598" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="38" ZImagePos="0" XMotorPos="16102" YMotorPos="42654" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="34" ZImagePos="0" XMotorPos="16102" YMotorPos="40542" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="35" ZImagePos="0" XMotorPos="16102" YMotorPos="41070" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="32" ZImagePos="0" XMotorPos="16102" YMotorPos="39486" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="19" YImagePos="33" ZImagePos="0" XMotorPos="16102" YMotorPos="40014" ZMotorPos="1795" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1795" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="32" ZImagePos="0" XMotorPos="16738" YMotorPos="39486" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="34" ZImagePos="0" XMotorPos="16738" YMotorPos="40542" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="33" ZImagePos="0" XMotorPos="16738" YMotorPos="40014" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="35" ZImagePos="0" XMotorPos="16738" YMotorPos="41070" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="37" ZImagePos="0" XMotorPos="16738" YMotorPos="42126" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="36" ZImagePos="0" XMotorPos="16738" YMotorPos="41598" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="41" ZImagePos="0" XMotorPos="16738" YMotorPos="44238" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="42" ZImagePos="0" XMotorPos="16738" YMotorPos="44766" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="43" ZImagePos="0" XMotorPos="16738" YMotorPos="45294" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="38" ZImagePos="0" XMotorPos="16738" YMotorPos="42654" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="39" ZImagePos="0" XMotorPos="16738" YMotorPos="43182" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="40" ZImagePos="0" XMotorPos="16738" YMotorPos="43710" ZMotorPos="1797" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1797" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="44" ZImagePos="0" XMotorPos="16738" YMotorPos="45822" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="45" ZImagePos="0" XMotorPos="16738" YMotorPos="46350" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="46" ZImagePos="0" XMotorPos="17374" YMotorPos="46878" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="20" YImagePos="46" ZImagePos="0" XMotorPos="16738" YMotorPos="46878" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="45" ZImagePos="0" XMotorPos="17374" YMotorPos="46350" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="43" ZImagePos="0" XMotorPos="17374" YMotorPos="45294" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="44" ZImagePos="0" XMotorPos="17374" YMotorPos="45822" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="42" ZImagePos="0" XMotorPos="17374" YMotorPos="44766" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="41" ZImagePos="0" XMotorPos="17374" YMotorPos="44238" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="40" ZImagePos="0" XMotorPos="17374" YMotorPos="43710" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="38" ZImagePos="0" XMotorPos="17374" YMotorPos="42654" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="39" ZImagePos="0" XMotorPos="17374" YMotorPos="43182" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="37" ZImagePos="0" XMotorPos="17374" YMotorPos="42126" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="35" ZImagePos="0" XMotorPos="17374" YMotorPos="41070" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="36" ZImagePos="0" XMotorPos="17374" YMotorPos="41598" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="34" ZImagePos="0" XMotorPos="17374" YMotorPos="40542" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="32" ZImagePos="0" XMotorPos="17374" YMotorPos="39486" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="21" YImagePos="33" ZImagePos="0" XMotorPos="17374" YMotorPos="40014" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="33" ZImagePos="0" XMotorPos="18010" YMotorPos="40014" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="34" ZImagePos="0" XMotorPos="18010" YMotorPos="40542" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="35" ZImagePos="0" XMotorPos="18010" YMotorPos="41070" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="37" ZImagePos="0" XMotorPos="18010" YMotorPos="42126" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="38" ZImagePos="0" XMotorPos="18010" YMotorPos="42654" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="36" ZImagePos="0" XMotorPos="18010" YMotorPos="41598" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="39" ZImagePos="0" XMotorPos="18010" YMotorPos="43182" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="40" ZImagePos="0" XMotorPos="18010" YMotorPos="43710" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="41" ZImagePos="0" XMotorPos="18010" YMotorPos="44238" ZMotorPos="1800" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1800" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="42" ZImagePos="0" XMotorPos="18010" YMotorPos="44766" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="43" ZImagePos="0" XMotorPos="18010" YMotorPos="45294" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="44" ZImagePos="0" XMotorPos="18010" YMotorPos="45822" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="22" YImagePos="45" ZImagePos="0" XMotorPos="18010" YMotorPos="46350" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="43" ZImagePos="0" XMotorPos="18646" YMotorPos="45294" ZMotorPos="1798" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1798" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="41" ZImagePos="0" XMotorPos="18646" YMotorPos="44238" ZMotorPos="1800" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1800" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="42" ZImagePos="0" XMotorPos="18646" YMotorPos="44766" ZMotorPos="1799" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1799" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="37" ZImagePos="0" XMotorPos="18646" YMotorPos="42126" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="39" ZImagePos="0" XMotorPos="18646" YMotorPos="43182" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="38" ZImagePos="0" XMotorPos="18646" YMotorPos="42654" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="40" ZImagePos="0" XMotorPos="18646" YMotorPos="43710" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="36" ZImagePos="0" XMotorPos="18646" YMotorPos="41598" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="35" ZImagePos="0" XMotorPos="18646" YMotorPos="41070" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="33" ZImagePos="0" XMotorPos="18646" YMotorPos="40014" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="24" YImagePos="38" ZImagePos="0" XMotorPos="19282" YMotorPos="42654" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="23" YImagePos="34" ZImagePos="0" XMotorPos="18646" YMotorPos="40542" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="24" YImagePos="36" ZImagePos="0" XMotorPos="19282" YMotorPos="41598" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="24" YImagePos="37" ZImagePos="0" XMotorPos="19282" YMotorPos="42126" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="24" YImagePos="40" ZImagePos="0" XMotorPos="19282" YMotorPos="43710" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
+<scaninfo>
+  <data>
+    <scaninfo XImagePos="24" YImagePos="39" ZImagePos="0" XMotorPos="19282" YMotorPos="43182" ZMotorPos="1802" FineFocusRange="none" CoarseFocusRange="none" ObjectLevel="none" OpticalFocusLevel="1802" FocusingType="Unfocused" Neighbours="none" NeighbourCoarsePoint="none"/>
+  </data>
+</scaninfo>
